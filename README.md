@@ -1,3 +1,3 @@
 # tmp-java
-A fuel depo management desktop application to manage clients, orders and stock. Files exceeds for then 100 please view on google drive
+A fuel depo management desktop application to manage clients, orders and stock. This project has more than a 100 files therefore cannot be uploaded to Github, please view it on google drive. Run it in a IDE Like Netbeans.
 https://drive.google.com/open?id=159V6d1DS_2UK5o-ykExbe_9ZWd5Aa8_2 
